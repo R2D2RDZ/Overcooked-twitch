@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Overcooked twitch/Library
+/Overcooked twitch/Logs
+/Overcooked twitch/obj/Debug
+/Overcooked twitch/UserSettings
+/Overcooked twitch/Temp
+Overcooked twitch/.vsconfig
